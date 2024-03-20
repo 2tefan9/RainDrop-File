@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844eb970402c0714da48761833b2a79f, type: 3}
+  m_Name: GoldCollection
+  m_EditorClassIdentifier: 
+  bubbles:
+  - {fileID: 11400000, guid: 2be98a5496c2fdf4780eb7223f1f933b, type: 2}
+  - {fileID: 11400000, guid: fd42ea5cf978aa7458064d059c2154e9, type: 2}
+  - {fileID: 11400000, guid: b8b99caffb4b8494c8e900991d666fac, type: 2}
+  - {fileID: 11400000, guid: 19abb889c3c6ed046bed028367b2da0d, type: 2}
+  Base: 3
+  speed: 2

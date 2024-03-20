@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7745fd517a78be445bab49a3b4b36273, type: 3}
+  m_Name: Multiplication
+  m_EditorClassIdentifier: 
+  operationID: 3
+  PrefabObject: {fileID: 6472177530364615110, guid: 0985d6cf75172a74f87fa381b5a0205f, type: 3}
+  BinaryPrefab: {fileID: 6472177530364615110, guid: 179ac91ecc23fb9409f4639522c16ac2, type: 3}
+  GoldPrefab: {fileID: 6472177530364615110, guid: a097f6c107e81494b9673e72969d7bd3, type: 3}
